@@ -1,4 +1,5 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
+### Luyang Zhang
 ## 1. Multiple Linear Regression Study for Beta-Carotene Level in Human Body 
 
 - Constructed a multiple linear regression model of beta-carotene
@@ -13,7 +14,7 @@ The relationship between beta-carotene levels and several different predictors w
 
 ## 2. Examining Variation in Neurons’ Visual Encoding Mean Firing Rate
 - Implemented a three-way Analysis of Variance (ANOVA) model with mixed effects to make inference of the variation in the response mean firing rate
-- Fit a logistic regression model with a accuracy of 77% for predicting a mouse receive penalty or reward
+- Fitted a logistic regression model with a accuracy of 77% for predicting a mouse receive penalty or reward
 - Conducted Linear Discriminant Analysis (LDA) for the same task and have similar results.
 
 In an experiment conducted by Nicholas A. Steinmetz et al., the neural activity in the visual cortex was analyzed from 1,196 trials. A three-way mixed effects ANOVA model was used to test the hypothesis that contrast levels and their interaction have an impact on neurons' mean firing rate. The model indicated that the mean firing rate of neurons after visual stimuli presentation is affected by the contrast levels of two visual stimuli and their interaction, while accounting for each experiment session as a random factor.
