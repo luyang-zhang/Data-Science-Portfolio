@@ -12,9 +12,9 @@ The relationship between beta-carotene levels and several different predictors w
 [View Report Here](https://github.com/luyang-zhang/Data-Science-Portfolio/blob/6786f7f8470c3a1a294646ae3020b0c2561f1ce1/1.%20Multiple%20Linear%20Regression.pdf)
 
 ## 2. Examining Variation in Neurons’ Visual Encoding Mean Firing Rate
-- Implimented a three-way Analysis of Variance (ANOVA) model with mixed effects to make inference of the variation in the response mean firing rate
+- Implemented a three-way Analysis of Variance (ANOVA) model with mixed effects to make inference of the variation in the response mean firing rate
 - Fit a logistic regression model with a accuracy of 77% for predicting a mouse receive penalty or reward
-- Conducted Linear Discriminant Analysis (LDA) for the same task and have similar result.
+- Conducted Linear Discriminant Analysis (LDA) for the same task and have similar results.
 
 In an experiment conducted by Nicholas A. Steinmetz et al., the neural activity in the visual cortex was analyzed from 1,196 trials. A three-way mixed effects ANOVA model was used to test the hypothesis that contrast levels and their interaction have an impact on neurons' mean firing rate. The model indicated that the mean firing rate of neurons after visual stimuli presentation is affected by the contrast levels of two visual stimuli and their interaction, while accounting for each experiment session as a random factor.
 
