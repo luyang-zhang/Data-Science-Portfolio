@@ -22,3 +22,13 @@ In an experiment conducted by Nicholas A. Steinmetz et al., the neural activity 
 Model diagnostics and sensitivity analysis were performed, including residual plots, normality tests, and homoskedasticity tests. In the second part of the project, a logistic regression model and linear discriminant analysis were used to predict whether mice receive a reward or penalty. These models achieved 77% accuracy with a true positive rate (TPR) of around 96% and a false positive rate (FPR) of approximately 77%. Finally, an alternative model based on linear discriminant analysis (LDA) was trained, yielding similar results.
 
 [View Report Here](https://github.com/luyang-zhang/Data-Science-Portfolio/blob/4b9d7cf88c919c6bffeb84d0606659278b3b23f9/Examining%20Variation%20in%20Neurons%E2%80%99%20Visual%20Encoding%20Mean%20Firing%20Rate.pdf)
+
+
+## 3. Prediction Models for NBA Players’ Performance
+- Clustered players performance data using a Gaussian mixture model to identify top, middle, and bottom tier players.
+- Utilized neural networks and random forests to predict future performance based on early career statistics, achieved a true
+positive rate as high as 81%.
+
+This study aimed to enhance the accuracy of predicting NBA player performance by employing clustering and machine learning techniques. Using Gaussian mixture models, guards and forwards were categorized into top, middle, and bottom tiers based on their early career statistics. The analysis extended to clustering players throughout their careers. By employing neural networks and random forest classifiers, the research predicted player tiers using data from their first three seasons. The random forest classifier demonstrated superior performance due to its capacity to accurately classify players as elite or lower tier. Additionally, the study reaffirmed the significance of traditional performance indicators like points and minutes per game, while also introducing new predictors that shed light on evaluating young guards and forwards in novel ways. This research has implications for team success and financial planning in the NBA.
+
+[View Report Here](https://github.com/luyang-zhang/Data-Science-Portfolio/blob/ba952775c700f2812b2ac5c8a03be0bb2fcf1edd/STA%20221%20Final%20Project%20Report.pdf)
