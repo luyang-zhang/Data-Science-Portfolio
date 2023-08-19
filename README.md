@@ -1,5 +1,6 @@
 # Data Science Portfolio
 ### Luyang Zhang
+[Linkedin](linkedin.com/in/luyzh) 
 ## 1. Multiple Linear Regression Study for Beta-Carotene Level in Human Body 
 
 - Constructed a multiple linear regression model of beta-carotene
