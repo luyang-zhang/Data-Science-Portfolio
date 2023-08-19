@@ -43,7 +43,7 @@ This project not only showcases our data science skills but also highlights our 
 
 ## 4. Binary Classification Analysis of Customer Subscriptions (Bayesian Additive Regression Trees, Support Vector Machine, Logistic Regression)
 
-__Summary__:
+**Summary**:
 In this project, we harnessed the growing potential of machine learning in driving business success. We created a binary classification model capable of accurately predicting whether customers would subscribe to a bank’s term deposit product post-marketing calls. Our primary focus shifted to the Bayesian regression additive tree (BART) model among four candidates, including logistic regression, support vector machine, and random forest.
 
 Approach:
