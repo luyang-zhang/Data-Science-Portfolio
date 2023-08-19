@@ -14,19 +14,28 @@ Results align with previous studies, offering generalizability to diverse popula
 _Importance and Implications_:
 These findings guide cancer risk reduction strategies, advocating for healthier lifestyles involving fitness, lower calorie intake, and increased fiber and vitamin consumption. The developed model enables approximating beta-carotene levels using easily accessible information, serving as a valuable tool for identifying high-risk individuals.
 
-_Future Directions_:
+_Future Prospects_:
 Further studies are warranted to elucidate the mechanisms underlying predictor effects on beta-carotene levels. Exploring specific vitamin impacts is essential. Larger sample sizes should be considered to mitigate sampling variability, improve reliability, and provide more precise predictor-to-beta-carotene relationships.
 
 [View Report Here](https://github.com/luyang-zhang/Data-Science-Portfolio/blob/6786f7f8470c3a1a294646ae3020b0c2561f1ce1/1.%20Multiple%20Linear%20Regression.pdf)
 
 ## 2. Examining Variation in Neurons’ Visual Encoding Mean Firing Rate 
-- Implemented a three-way Analysis of Variance (ANOVA) model with mixed effects to make inference of the variation in the response mean firing rate
-- Fitted a logistic regression model with a accuracy of 77% for predicting a mouse receive penalty or reward
-- Conducted Linear Discriminant Analysis (LDA) for the same task and have similar results.
 
-In an experiment conducted by Nicholas A. Steinmetz et al., the neural activity in the visual cortex was analyzed from 1,196 trials. A three-way mixed effects ANOVA model was used to test the hypothesis that contrast levels and their interaction have an impact on neurons' mean firing rate. The model indicated that the mean firing rate of neurons after visual stimuli presentation is affected by the contrast levels of two visual stimuli and their interaction, while accounting for each experiment session as a random factor.
+_Summary_:
+In this project, I delved into the analysis of neural activity in the visual cortex, utilizing data from 1,196 trials conducted by Nicholas A. Steinmetz et al. The primary objective was to investigate the influence of contrast levels and their interaction on neurons' mean firing rates. Additionally, I ventured into predicting mice's reward or penalty responses through logistic regression and linear discriminant analysis models, achieving promising accuracy rates.
 
-Model diagnostics and sensitivity analysis were performed, including residual plots, normality tests, and homoskedasticity tests. In the second part of the project, a logistic regression model and linear discriminant analysis were used to predict whether mice receive a reward or penalty. These models achieved 77% accuracy with a true positive rate (TPR) of around 96% and a false positive rate (FPR) of approximately 77%. Finally, an alternative model based on linear discriminant analysis (LDA) was trained, yielding similar results.
+_Visual Cortex Analysis_:
+Applied a three-way mixed effects ANOVA model to assess the effects of contrast levels and interaction on mean firing rates.
+Confirmed that the firing rates of neurons are significantly affected by the contrast levels of visual stimuli and their interaction.
+Ensured model reliability through rigorous diagnostics, including residual plots and tests for normality and homoskedasticity.
+
+_Feedback Prediction_:
+Employed logistic regression and linear discriminant analysis for predicting mice's reward or penalty responses.
+Achieved an accuracy rate of 78% with a True Positive Rate of 97.3% and a False Positive Rate of 76.92% using logistic regression.
+Similarly, the Linear Discriminant Analysis model yielded an accuracy rate of 77%, with a True Positive Rate of 95.95% and a False Positive Rate of 76.92%.
+
+_Future Prospects_:
+The insights gained from this study underscore my ability to navigate intricate datasets and draw meaningful conclusions. Future avenues could involve more advanced statistical learning tools such as quadratic discriminant analysis or support vector machines. Additionally, refining models through cross-validation and stringent validation criteria can enhance predictive accuracy for feedback types.
 
 [View Report Here](https://github.com/luyang-zhang/Data-Science-Portfolio/blob/4b9d7cf88c919c6bffeb84d0606659278b3b23f9/Examining%20Variation%20in%20Neurons%E2%80%99%20Visual%20Encoding%20Mean%20Firing%20Rate.pdf)
 
