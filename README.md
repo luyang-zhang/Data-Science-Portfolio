@@ -75,3 +75,17 @@ _Impact_:
 By successfully implementing a robust predictive model and providing insights into customer behavior, this project showcases our proficiency in utilizing machine learning to address critical business challenges.
 
 [View Report Here](https://github.com/luyang-zhang/Data-Science-Portfolio/blob/bc63fb3b6345d1be691401dd897a8eec53295e8e/Group_5_STA_208_Project.pdf)
+
+
+## 5. A Time Series Analysis of COVID-19 on Global Travel Patterns at San Francisco International Airport
+_Summary_:
+This project centers on a comprehensive time series analysis investigating the profound impact of the COVID-19 pandemic on global travel, with a specific focus on San Francisco International Airport (SFO). Leveraging pre-COVID monthly passenger data, the study seeks to quantify the magnitude of the pandemic's disruption on travel patterns and forecast hypothetical passenger volumes in the absence of the pandemic.
+
+_Approach_:
+The analysis employs a robust methodological framework, combining time series decomposition techniques with Autoregressive Moving Average (ARMA) models enriched by seasonal and trend components. Spectral analysis serves as a critical validation tool to ensure the fidelity of model assumptions. Through meticulous data exploration and model fitting, the study disentangles the complex interplay of factors shaping passenger numbers at SFO.
+
+_Key Findings_:
+The findings reveal a stark narrative of disruption, with the pandemic precipitating a significant loss of approximately 80 million passengers at SFO over the tumultuous years of 2020 and 2021. Notably, the study underscores the resilience of time series analysis in unraveling the intricate dynamics of travel patterns and illuminating the transformative impact of external shocks on aviation hubs.
+
+_Impact_:
+This project bears profound implications for stakeholders across the travel industry, offering critical insights into the resilience and adaptability of aviation infrastructure in the face of unprecedented challenges. By elucidating the staggering toll exacted by the pandemic on global travel, the study serves as a potent tool for informing strategic decision-making and policy formulation in navigating the uncertain terrain of a post-pandemic world. As such, it stands as a testament to the transformative power of data-driven analysis in shaping resilient, adaptive, and forward-thinking approaches to global travel management.
