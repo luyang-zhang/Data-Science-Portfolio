@@ -78,6 +78,7 @@ By successfully implementing a robust predictive model and providing insights in
 
 
 ## 5. A Time Series Analysis of COVID-19 on Global Travel Patterns at San Francisco International Airport
+![Time Series Prediction](ts_outcome.png)
 _Summary_:
 This project centers on a comprehensive time series analysis investigating the profound impact of the COVID-19 pandemic on global travel, with a specific focus on San Francisco International Airport (SFO). Leveraging pre-COVID monthly passenger data, the study seeks to quantify the magnitude of the pandemic's disruption on travel patterns and forecast hypothetical passenger volumes in the absence of the pandemic.
 
